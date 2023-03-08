@@ -106,7 +106,7 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <h2>I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof.</h2>
-          <img class="testimonials-image" src="images/dog-img.jpg" alt="dog-profile">
+          <img class="testimonials-image" src="https://github.com/Adele584/Tindog/blob/master/dog-img.jpg" alt="dog-profile">
           <em>New York, Harlem</em>
         </div>
 
