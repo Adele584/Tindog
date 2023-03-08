@@ -147,7 +147,7 @@
     <img class="press-logo" src="images/techcrunch.png" alt="tc-logo">
     <img class="press-logo" src="https://github.com/Adele584/Tindog/blob/master/tnw.png" alt="tnw-logo">
     <img class="press-logo" src="images/bizinsider.png" alt="biz-insider-logo">
-    <img class="press-logo" src="images/mashable.png" alt="mashable-logo">
+    <img class="press-logo" src="https://github.com/Adele584/Tindog/blob/master/mashable.png" alt="mashable-logo">
 
   </section>
 
