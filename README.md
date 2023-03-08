@@ -124,7 +124,7 @@
 
         <div class="carousel-item">
           <h2 class="testimonial-text">I love the tindog app, Even my dog loves it. If you ask me i'll rate it five stars.</h2>
-          <img class="testimonials-img" src="file:///C:/Users/user/Downloads/Web%20Development/CSS-%20Bacon%20Fansite/images/download-modified.png" alt="alfa profile">
+          <img class="testimonials-img" src="https://raw.githubusercontent.com/Adele584/Tindog/master/dog-img.jpg" alt="alfa profile">
           <a href="#carousel-item active"></a>
           <em>Lagos, Ikeja</em>
         </div>
