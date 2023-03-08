@@ -63,7 +63,7 @@
           <button type="button" class="btn btn-lg btn-outline-light download-button"><i class="fa-brands fa-google-play"></i> Download</button>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12">
-          <img class="title-image" src="images/iphone6.png" alt="iphone-mockup">
+          <img class="title-image" src="https://github.com/Adele584/Tindog/blob/master/iphone6.png" alt="iphone-mockup">
         </div>
       </div>
     </div>
