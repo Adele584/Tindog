@@ -118,7 +118,7 @@
 
         <div class="carousel-item" class="carousel slide" data-ride="false">
           <h2 class="testimonial-text">My dog used to be so lonely, but with TinDog's help, they've found the love of their life. I think.</h2>
-          <img class="testimonials-image" src="images/lady-img.jpg" alt="lady-profile">
+          <img class="testimonials-image" src="https://github.com/Adele584/Tindog/blob/master/lady-img.jpg" alt="lady-profile">
           <em>Beverly, Illinois</em>
         </div>
 
